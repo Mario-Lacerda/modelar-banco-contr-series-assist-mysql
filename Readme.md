@@ -1,4 +1,4 @@
-# Dessafio Dio - MySql - Como modelar um banco de controle de séries assistidas
+# Desafio Dio - MySql - Como modelar um banco de controle de séries assistidas
 
 
 
